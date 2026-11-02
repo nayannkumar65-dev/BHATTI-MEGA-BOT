@@ -1,9 +1,9 @@
 {
   "PORT": 5000,
   "LOGIN_METHOD": "appstate",
-  "BOTNAME": "🌟 DANI BOT 🌟",
-  "PREFIX": ".",
-  "ADMINBOT": ["61588243168137"],
+  "BOTNAME": "🌟 BOT 🌟",
+  "PREFIX": "#",
+  "ADMINBOT": ["61595469805936"],
   "PREFIX_ENABLED": true,
   "REACT_DELETE_EMOJI": "😡",
   "ADMIN_ONLY_MODE": false,
